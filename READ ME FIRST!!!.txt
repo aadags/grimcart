@@ -1,0 +1,31 @@
+    
+    ************************************************
+    *                                              *
+    *                                              *
+    *                                              *
+    *                Grimcart 0.1                  *
+    *                                              *
+    *                                              *
+    *                                              *
+    *                                              *
+    ************************************************
+
+
+    Thank you for choosing grimcart 0.1
+
+This is the zipped version of grimcart 0.1. Make sure to have installed this in your server's root address.(just copy and paste all files)
+
+in your cart's root folder, navigate to the folder "includes" and click to edit file "connection", there you
+
+can change your database login details. All other things are automated.
+
+All database data are empty by default so as to enable users to input self data from scatch.
+
+Your default url is localhost/grimcart/    admin url is http://localhost/grimcart/admin/adminhome
+
+the administrative section allows you to create categories and products. Always remember to preview your site after wards. 
+
+Your admin login details is USERNAME: admin    PASSWORD: 12345
+
+Remember to contact DR webtech for tech support or visit dr-webtech.blogspot.com
+

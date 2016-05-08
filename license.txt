@@ -1,0 +1,42 @@
+/*
+  -------------------------------------------------------------------------
+      DR webtech's  GRIMCART
+              Version 0.1
+    This program is free software published under the
+    terms of the GNU Lesser General Public License.
+
+    This program is distributed in the hope that it will
+    be useful - WITHOUT ANY WARRANTY; without even the
+    implied warranty of MERCHANTABILITY or FITNESS FOR A
+    PARTICULAR PURPOSE.
+
+
+	Questions & comments please send to damahrefeay@gmail.com
+  -------------------------------------------------------------------------
+*/ 
+
+   LICENSE AGREEMENT.
+	
+	Grimcart 0.1 is a product of DR webtech, any outright claims to  this is a pure scam!.
+
+Grimcart 0.1 is built for commercial use therefore can be used for testing and commercial purpose.
+
+This license agreement is an agreement between you and DR webtech. The Agreement applies to all commercially distributed versions and modifications of DR webtech softwares.
+
+1. Software is a set of source code files (PHP scripts and associated materials like SQL scripts, reference manual and the text of this Agreement) designed to implement an on-line shopping cart system and reproduced either in files or on paper including soft and/or hard copies.
+
+2. By purchasing the Software you acknowledge that you have read this Agreement, and that you agree to the content of the Agreement and its terms, and agree to use the Software in compliance with this Agreement.
+
+3. The Agreement comes into legal force at the moment when you download this Software from our site or receive it through email or on data medium at the Author’s discretion.
+
+4. The Author is a copyright holder of the Software. The Software or a portion of it is a copyrightable matter and is liable to protection by the law. Any activity that infringes terms of this Agreement violates copyright law and will be prosecuted according to the current law.
+
+5. The Software is sold "AS IS" without warranties as to performance, merchantability, data integrity, and warranty of any kind, either expressed or implied. The Author is not liable for any damage or possible damage caused to you, your information and your business arising out of the use or inability to use this Software.
+
+6. This Agreement gives you the right to use only one copy of the Software for one online shopping cart system on one web-server. A separate License should be purchased for each new Software installation. Any distribution of the Software without preliminary Author’s consent, including noncommercial distribution is regarded as violation of this Agreement and entails liability, according to the current law. You can create and use additional copy of the Software exclusively for testing purposes or making changes to the initial code, on condition that such copy is not accessible by third parties.   
+
+7. You have the right to make any changes into the initial code of the Software at your discretion. On condition that further on the Software is used in compliance to this Agreement and on condition of copyright reservation. The Author is not liable for performance of this Software if you make any changes.
+
+8. The Author is not liable to you for prosecution arising from use of the Software against law (including, but not limited, selling prohibited products or products acquired as a result of criminal activity exasperating interracial or international antagonism through the online shop; and etc.). 
+
+9. The Agreement may be terminated in case you delete all received files, documents and their copies. Termination of this Agreement does not bind the Author over to return you the funds spent for purchase of the Software. 
